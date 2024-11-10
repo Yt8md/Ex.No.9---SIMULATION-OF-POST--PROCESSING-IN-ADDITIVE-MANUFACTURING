@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/70ff537f-c704-4d6f-8198-3956bb37c1d7)
+<br>
+![image](https://github.com/user-attachments/assets/1b6d9228-2e99-4c48-92f9-1f560d3387c7)
+<br>
+![image](https://github.com/user-attachments/assets/f58f7d23-36f0-4c38-b0ab-571f94d1247c)
+<br>
+
+### Name: MATHESH S
+### Register Number: 212223230123
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
